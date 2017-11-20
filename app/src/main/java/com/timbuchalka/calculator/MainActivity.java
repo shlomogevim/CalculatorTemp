@@ -1,6 +1,7 @@
 package com.timbuchalka.calculator;
 
 
+
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -162,5 +163,10 @@ public class MainActivity extends AppCompatActivity {
 
         result.setText(operand1.toString());
         newNumber.setText("");
+    }
+    public String what_name(){
+
+
+        return "Shlomo was here";
     }
 }
