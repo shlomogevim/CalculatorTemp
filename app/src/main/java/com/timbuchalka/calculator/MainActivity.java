@@ -169,4 +169,5 @@ public class MainActivity extends AppCompatActivity {
 
         return "Shlomo was here";
     }
+    // this is comment to test Git pull from Android Studio
 }
